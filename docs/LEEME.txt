@@ -1,0 +1,55 @@
+TRANSCRIPTOR NOTARIAL — LÉAME
+==============================
+
+Que es esto
+-----------
+Un programa para convertir actas y documentos notariales escaneados en
+borradores de Word editables, usando reconocimiento de texto (OCR) que
+funciona completamente en esta computadora. No usa Internet, no envia
+nada a ningun servidor, no requiere cuentas de usuario.
+
+Como usarlo
+-----------
+1. Copie esta carpeta completa a una memoria USB, o dejela en el disco
+   local si asi lo prefiere.
+2. Haga doble clic en TranscriptorNotarial.exe
+3. Siga las instrucciones en pantalla (interfaz en espanol).
+
+No necesita instalar Python, Tesseract, ni ninguna otra cosa: todo lo
+necesario ya esta dentro de esta carpeta.
+
+Requisitos de la computadora
+-----------------------------
+- Windows 10 o Windows 11, de 64 bits.
+- Microsoft Word instalado (para abrir el resultado final).
+- Un lector o editor de PDF instalado.
+- No requiere permisos de administrador para su uso normal.
+
+Advertencia sobre memoria USB
+------------------------------
+No retire la memoria USB mientras el programa este abierto ni mientras
+este procesando un documento.
+
+Aviso de Windows SmartScreen
+------------------------------
+Windows puede mostrar una advertencia al abrir el programa por primera
+vez, porque todavia no tiene firma digital. Esto es normal en programas
+nuevos y no significa que sea un virus. Elija "Mas informacion" y luego
+"Ejecutar de todas formas".
+
+Documentos generados
+---------------------
+Por defecto, los documentos Word se guardan en:
+  Documentos\Transcripciones Notariales
+(en el disco de la computadora, no en la memoria USB), para evitar dejar
+informacion confidencial en la USB sin que usted lo decida.
+
+Mas informacion
+----------------
+Vea Manual_de_Uso.pdf para instrucciones detalladas paso a paso.
+
+Licencias
+---------
+Este programa incluye componentes de terceros de codigo abierto
+(Tesseract OCR y otras librerias). Vea la carpeta "licencias" para el
+detalle completo.

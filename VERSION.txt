@@ -1,0 +1,4 @@
+Transcriptor Notarial
+Versión: 1.0.0
+Fecha de compilación: (se completa al generar la carpeta portátil)
+Compatibilidad: Windows 10 / 11, 64 bits
